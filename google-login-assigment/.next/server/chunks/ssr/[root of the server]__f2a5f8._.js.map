@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file:///Users/milanchourasia/Downloads/FLP/FLP-Assignments/google-login/src/pages/_app.js"],"sourcesContent":["import \"@/styles/globals.css\";\nimport { SessionProvider } from \"next-auth/react\";\n\nexport default function App({ Component, pageProps }) {\n  return (\n    <>\n      <SessionProvider session={pageProps.session}>\n          <Component {...pageProps} />\n      </SessionProvider>\n    </>\n  )\n}\n"],"names":[],"mappings":";;;;AACA;;;;AAEe,SAAS,IAAI,EAAE,SAAS,EAAE,SAAS,EAAE;IAClD,qBACE;kBACE,cAAA,qKAAC,mIAAA,CAAA,kBAAe;YAAC,SAAS,UAAU,OAAO;sBACvC,cAAA,qKAAC;gBAAW,GAAG,SAAS;;;;;;;;;;;;AAIlC"}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,8 @@
+__turbopack_load_page_chunks__("/dashboard", [
+  "static/chunks/node_modules_next_71458a._.js",
+  "static/chunks/node_modules_react-dom_82bb97._.js",
+  "static/chunks/node_modules_4db641._.js",
+  "static/chunks/[root of the server]__6b4681._.js",
+  "static/chunks/src_pages_dashboard_index_5771e1.js",
+  "static/chunks/src_pages_dashboard_index_fb25c4.js"
+])
